@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Blog - Miliari Adnane',
   author: 'Adnane Miliari',
   headerTitle: 'Adnane Miliari',
-  description: '',
+  description: '"Understand, do not memorize."',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://miliari.me',
