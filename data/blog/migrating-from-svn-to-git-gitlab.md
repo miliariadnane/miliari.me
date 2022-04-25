@@ -3,7 +3,7 @@ title: My migration journey from SVN to Git (GitLab)
 date: '2022-02-02'
 tags: ['DevOps', 'GIT', 'SVN']
 draft: false
-summary: 'How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.'
+summary: 'Recently, my team decided to migrate our control version system from SVN to GIT for many reasons, the main one is to improve the way in which we manage our code versioning ...'
 ---
 
 ![svn2git illustration](/static/images/svn2git/svn2git.gif)
