@@ -1,14 +1,17 @@
+/* eslint-disable prettier/prettier */
 const siteMetadata = {
   title: 'Blog - Miliari Adnane',
   author: 'Adnane Miliari',
   headerTitle: 'Adnane Miliari',
-  description: '"Understand, do not memorize."',
+  description: 'Understand, do not memorize',
+  introduction: 'Welcome to my personal blog about software development, devops, AI and new technologies ... Feel free, ask, comment, give your opinion.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://miliari.me',
   siteRepo: 'https://github.com/miliariadnane/miliari.me',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
+  imageIntro: '/static/images/icon.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'miliari.adnane@gmail.com',
   github: 'https://github.com/miliariadnane',
